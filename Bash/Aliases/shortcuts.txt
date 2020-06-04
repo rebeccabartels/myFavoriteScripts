@@ -1,0 +1,9 @@
+
+- `~/Documents`:
+    - Run echo "alias docs='cd ~/Documents'" >> ~/.bashrc && source ~/.bashrc
+
+- `~/Downloads`:
+    - Run echo "alias dwn='cd ~/Downloads'" >> ~/.bashrc && source ~/.bashrc
+
+- `~//etc`:
+    - Run echo "alias etc='cd /etc'" >> ~/.bashrc && source ~/.bashrc
